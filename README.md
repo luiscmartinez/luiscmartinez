@@ -25,11 +25,6 @@
     alt="luiscmartinez"
   />
   
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=luiscmartinez&show_icons=true&locale=en&theme=onedark"
-    alt="luiscmartinez"
-  />
-  
 
   
 
