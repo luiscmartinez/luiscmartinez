@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/b304ee70-fe88-4d8c-bfac-131b6189e327.svg)](https://wakatime.com/@b304ee70-fe88-4d8c-bfac-131b6189e327)
 
 <p>
-	<h3 align="left">Connect with me 👯</h3>
+	<h3 align="left">Connect with me below ⬇️</h3>
   <a
   &nbsp;
   <a
